@@ -9,7 +9,7 @@ using System.Web.Http;
 
 namespace RDLCReport.Controllers
 {
-    //this is the way
+  
     public class CustomerController : ApiController
     {
         InventoryEntities db = new InventoryEntities();
